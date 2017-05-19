@@ -1,4 +1,4 @@
-# SQL Work-Shop 5/20
+# SQL Workshop 5/20
 ## Data Science at UCSB and FACTOR (Female Actuarial Organization)
 
 **Contributors**

@@ -49,6 +49,10 @@ to make some interesting observations.
 + Use **R** or **Python** to go beyond (I hope most people from **DS** will do this.)
 + Upload all relevant files to *GitHub* and if time permits we can do a 2 minute showcase of people's results. 	
 
+## Download:
++ [Macs](https://dev.mysql.com/downloads/mysql/)
++ [Windows](https://dev.mysql.com/downloads/installer/)
+
 ## Resources
 + [Ravi's Data Warehousing Notes](https://github.com/raviolli77/understandIngRelationalDatabases)
 + [w3schools SQL Tutorial](https://www.w3schools.com/SQL/deFault.asp)

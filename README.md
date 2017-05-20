@@ -12,10 +12,10 @@ Relevant Links:
 
 ## Downloading MySQL Workbench
 + [Macs](https://github.com/raviolli77/SQL_Workshop/blob/master/downloadMySQLServer.md)
-+ Windows - Download MySQL Installer and that should be clear enough to follow and download all necessary packages
++ Windows - Download *MySQL* Installer and that should be clear enough to follow and download all necessary packages
 
 ## **Goal** 
-For this workshop, we will focus on basic functionalities within a *MySQL* context. As well as some theory with respect to *Data Warehousing* to give context to attendee the usefulness of **SQL** data storage. 
+For this workshop, we will focus on basic functionalities within a *MySQL* context. As well as some theory with respect to *Data Warehousing* to give context to attendees the usefulness of **SQL** data storage. 
 
 
 ## **Process**

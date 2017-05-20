@@ -21,6 +21,11 @@ For this workshop, we will focus on basic functionalities within a *MySQL* conte
 ## **Process**
 This stucture will be similar to the [Python Workshop](https://github.com/UCSB-dataScience-ProjectGroup/Python_Workshop), except instead of being handed a dataset you will be handed a *database*. 
 
+Presentation:
++ [Data Warehousing](https://www.inertia7.com/projects/5)
++ [SQL Syntax](https://www.inertia7.com/projects/66)
++ [Student Collaboration](https://www.inertia7.com/projects/70)
+
 Databases:
 + [Northwind Database](https://github.com/dalers/mywind)
 + [World Database](https://dev.mysql.com/doc/index-other.html)

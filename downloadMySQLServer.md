@@ -5,11 +5,12 @@
 3. Start MySQL Server from System Preferences
 4. Run MySQL from terminal 
 	
-	cd /usr/local/mysql/bin
+	cd /usr/local/mysql
+	
 
 5. Run 
 
-	mysql -u root -p
+	bin/mysql -u root -p
 
 6. Input temp password
 

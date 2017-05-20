@@ -37,7 +37,8 @@ For this step you will create a **GitHub** repository with the following require
 	+ The problem you are trying to solve (i.e. the instructions on the file for your given data set)
 
 ## **STEP 2: Do Analysis**
-Simple as that do analysis on the database you chose to use. As soon as I'm done lecturing we will branch off into temas and you will work with a team 
+Simple as that do analysis on the database you chose to use (Goes without saying that you should be able to successfully load the database into the *MySQL Workbench*). 
+As soon as I'm done lecturing we will branch off into temas and you will work with a team 
 to make some interesting observations. 
 + Make insightful comments about queries
 + Use **R** or **Python** to go beyond (I hope most people from **DS** will do this.)

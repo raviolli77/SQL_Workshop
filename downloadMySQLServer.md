@@ -51,4 +51,4 @@ If output is:
 
 Success
 
-You can now access the MySQL Server through the Workbench
+You can now access the MySQL Server through the Workbench, using the credentials you made through the *MySQL* server. 

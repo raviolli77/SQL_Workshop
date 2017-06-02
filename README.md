@@ -4,6 +4,7 @@
 **Contributors**
 + Raul Eulogio
 + Ashley Samudio
++ Jun Seo Park
 
 Relevant Links:
 + [Data Science at UCSB](http://datascience.pstat.ucsb.edu/)

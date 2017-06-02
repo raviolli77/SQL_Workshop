@@ -12,7 +12,12 @@ Relevant Links:
 
 ## Downloading MySQL Workbench
 + [Macs](https://github.com/raviolli77/SQL_Workshop/blob/master/downloadMySQLServer.md)
-+ Windows - Download *MySQL* Installer and that should be clear enough to follow and download all necessary packages
++ Windows - Download *MySQL* Installer and run
+	+ Setup Type: select *"Developer Default"*
+	+ Check Requirements: Click *"Execute"* and run through all the installations (there will be a lot)
+		+ Once everything finishes, click *"Next"*; ignore the message that you need another Python installation, this is not necessary
+	+ Proceed with the rest of the installation
+		+ If major issues occur, cancel the installation, re-run MySQL Installer and remove all packages, then try to reinstaller beginning with *"Developer Default"*
 
 ## **Goal** 
 For this workshop, we will focus on basic functionalities within a *MySQL* context. As well as some theory with respect to *Data Warehousing* to give context to attendees the usefulness of **SQL** data storage. 

@@ -48,9 +48,9 @@ For this step you will create a **GitHub** repository with the following require
 
 ## **STEP 2: Do Analysis**
 Simple as that do analysis on the database you chose to use (Goes without saying that you should be able to successfully load the database into the *MySQL Workbench*). 
-As soon as I'm done lecturing we will branch off into temas and you will work with a team 
+As soon as I'm done lecturing we will branch off into teams and you will work with a team 
 to make some interesting observations. 
-+ Make insightful comments about queries
++ Make insightful comments about queries (practice exercises included in Github repository)
 + Use **R** or **Python** to go beyond (I hope most people from **DS** will do this.)
 + Upload all relevant files to *GitHub* and if time permits we can do a 2 minute showcase of people's results. 	
 

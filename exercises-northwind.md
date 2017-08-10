@@ -7,6 +7,7 @@ and northwind_data.sql)
 	a. Show table with recipient's name, city, state, and shipping_fee 
 	b. Ordered by shipping_fee, most expensive at the top 
 2. From the Orders table:
+	
 	a. Show a table with state and sum of all shipping_fee for that state 
 		1. Group that individual entries by state 
 	b. Order by shipping_fee, most money at the top
